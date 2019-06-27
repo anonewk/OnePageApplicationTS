@@ -1,0 +1,35 @@
+
+@media all and (max-width: 1200px){
+    main {
+        max-width: 940px;
+        
+    }
+    #head{
+        max-width:  940px;
+    }
+    
+    
+}
+@media all and (max-width: 1023px){
+    main{
+        max-width: 768px;
+    }
+    #head{
+        max-width: 768px;
+    }
+    #slider{
+        display: none;
+    }
+    #mainfeature{
+        display: none;
+    }
+    #prensentationservices{
+        text-align: center;
+    }
+    .service_icon{
+        display: none;
+    }
+    #contact{
+        justify-content: center;
+    }
+}

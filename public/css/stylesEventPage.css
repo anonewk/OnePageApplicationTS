@@ -1,0 +1,21 @@
+#containevent{
+    display: flex;
+    margin-bottom: 45px;
+    
+}
+section{
+    margin-top: 90px;
+    padding-top: 50px;
+}
+img{
+    
+     width: 500px;
+    height: 450px;
+    
+}
+#eventSideDeco
+{
+/*   border: 1px solid white;*/
+    text-align: center;
+    
+}
